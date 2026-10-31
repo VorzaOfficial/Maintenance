@@ -1,4 +1,4 @@
 {
-  "maintenance": false, 
-  "message": "🚫 Bot Maintenance"
+  "maintenance": true, 
+  "message": "Bot Sedang Maintenance"
 }
